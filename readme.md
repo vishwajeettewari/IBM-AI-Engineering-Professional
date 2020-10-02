@@ -10,7 +10,7 @@ Notebooks from IBM AI Engineering Professional by Coursera.
 <h3 align="center">IBM AI Engineering Professional Certificate</h3>
 
 <p align="center">
-<img src="" width="70%" height="60%" title="learning scope" >
+<img src="https://user-images.githubusercontent.com/39946753/94976642-3e340680-0533-11eb-989d-0b4900d04703.png" width="70%" height="60%" title="learning scope" >
 </p>
 
 ## Individual Courses
